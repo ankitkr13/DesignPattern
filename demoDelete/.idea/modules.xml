@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterDesignPattern/AdapterDesignPattern.iml" filepath="$PROJECT_DIR$/AdapterDesignPattern/AdapterDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositeDesignPAttern/CompositeDesignPAttern.iml" filepath="$PROJECT_DIR$/CompositeDesignPAttern/CompositeDesignPAttern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NormalUseCase/NormalUseCase.iml" filepath="$PROJECT_DIR$/NormalUseCase/NormalUseCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrototypeDesignPattern/PrototypeDesignPattern.iml" filepath="$PROJECT_DIR$/PrototypeDesignPattern/PrototypeDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoDelete.iml" filepath="$PROJECT_DIR$/demoDelete.iml" />
+    </modules>
+  </component>
+</project>
